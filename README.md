@@ -1,2 +1,3 @@
-# Venues
-https://github.com/openvenue/Venues/wiki
+# Venues (ST)
+
+Strategic Theme
